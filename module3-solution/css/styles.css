@@ -1,0 +1,39 @@
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.row-header{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.row-content {
+    margin:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.panel-menu {
+  height: 1000px;
+}
